@@ -1,3 +1,3 @@
 # Matlab-Projects
 
-This repository contains some Matlab projects very usefull.
+This repository contains some Matlab projects very useful.
